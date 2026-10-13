@@ -11,6 +11,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | Day | Topic | Folder |
 |-----|-------|--------|
 | 1 | SQL and database foundations, basic keywords | [day-01-sql-foundations](./day-01-sql-foundations) |
+| 2 | Comparison and logical operators, wildcards | [day-02-filtering-operators-wildcards](./day-02-filtering-operators-wildcards) |
 
 ## Repo structure
 
