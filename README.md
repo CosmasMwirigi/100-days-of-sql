@@ -13,6 +13,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | 1 | SQL and database foundations, basic keywords | [day-01-sql-foundations](./day-01-sql-foundations) |
 | 2 | Comparison and logical operators, wildcards | [day-02-filtering-operators-wildcards](./day-02-filtering-operators-wildcards) |
 | 3 | Aliases, arithmetic, aggregate functions, GROUP BY, HAVING | [day-03-aliases-aggregates-group-by](./day-03-aliases-aggregates-group-by) |
+| 4 | ORDER BY, LIMIT, OFFSET, WHERE vs HAVING, query order | [day-04-order-by-limit-having](./day-04-order-by-limit-having) |
 
 ## Repo structure
 
