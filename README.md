@@ -14,6 +14,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | 2 | Comparison and logical operators, wildcards | [day-02-filtering-operators-wildcards](./day-02-filtering-operators-wildcards) |
 | 3 | Aliases, arithmetic, aggregate functions, GROUP BY, HAVING | [day-03-aliases-aggregates-group-by](./day-03-aliases-aggregates-group-by) |
 | 4 | ORDER BY, LIMIT, OFFSET, WHERE vs HAVING, query order | [day-04-order-by-limit-having](./day-04-order-by-limit-having) |
+| 5 | JOINs: INNER, LEFT, RIGHT, FULL OUTER | [day-05-joins](./day-05-joins) |
 
 ## Repo structure
 
@@ -25,4 +26,5 @@ Each day has its own folder with:
 ## Follow along
 
 - LinkedIn: [Cosmas Mwirigi](https://www.linkedin.com/in/cosmas-mwirigi-501850115)
+- X (Twitter): [@MwirigiCosmas1](https://x.com/MwirigiCosmas1)
 - Hashtag: #100DaysOfSQL
