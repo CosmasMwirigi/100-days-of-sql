@@ -15,6 +15,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | 3 | Aliases, arithmetic, aggregate functions, GROUP BY, HAVING | [day-03-aliases-aggregates-group-by](./day-03-aliases-aggregates-group-by) |
 | 4 | ORDER BY, LIMIT, OFFSET, WHERE vs HAVING, query order | [day-04-order-by-limit-having](./day-04-order-by-limit-having) |
 | 5 | JOINs: INNER, LEFT, RIGHT, FULL OUTER | [day-05-joins](./day-05-joins) |
+| 6 | Order of execution, data types, CREATE / INSERT / ALTER / DROP | [day-06-data-types-tables](./day-06-data-types-tables) |
 
 ## Repo structure
 
