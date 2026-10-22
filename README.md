@@ -17,6 +17,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | 5 | JOINs: INNER, LEFT, RIGHT, FULL OUTER | [day-05-joins](./day-05-joins) |
 | 6 | Order of execution, data types, CREATE / INSERT / ALTER / DROP | [day-06-data-types-tables](./day-06-data-types-tables) |
 | 7 | UPDATE, ALTER COLUMN, defaults, casting and date functions | [day-07-update-alter-dates](./day-07-update-alter-dates) |
+| 8 | EXTRACT, CASE, subqueries, CTEs, UNION | [day-08-case-ctes-unions](./day-08-case-ctes-unions) |
 
 ## Repo structure
 
